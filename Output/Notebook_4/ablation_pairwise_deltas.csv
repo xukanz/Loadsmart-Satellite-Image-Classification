@@ -1,0 +1,7 @@
+claim,before,after,before_best_val_acc,after_best_val_acc,delta_best_val_acc,supported
+Best YOLO configuration outperforms ResNet18 baseline,09_resnet18_224_density,08_yolov8s_640_baseline_negatives,0.8988666085440279,0.91979,0.020923391455972107,True
+Density-aware negative sampling outperforms baseline-global negatives in the matched YOLOv8s setting,08_yolov8s_640_baseline_negatives,06_yolov8s_640_strong_reg_ls,0.91979,0.89015,-0.02964,False
+YOLOv8s at 320px compared with YOLOv8n at 640px,01_yolov8n_640_density,02_yolov8s_320_density,0.89102,0.90671,0.015689999999999982,True
+Offline augmentation effect in YOLOv8s 640px setting,03_yolov8s_640_no_aug,06_yolov8s_640_strong_reg_ls,0.90323,0.89015,-0.01307999999999998,False
+Strong regularization compared with weak regularization,04_yolov8s_640_weak_reg,05_yolov8s_640_strong_reg,0.91194,0.89015,-0.021789999999999976,False
+Label smoothing added to strong regularization,05_yolov8s_640_strong_reg,06_yolov8s_640_strong_reg_ls,0.89015,0.89015,0.0,False

@@ -1,0 +1,4 @@
+strategy_name,n_categories,total_final_negatives,mean_per_category,median_per_category,total_runtime_sec
+baseline_global,10,899,89.9,100.0,1058.618890762329
+density_v1,10,859,85.9,89.5,573.2132759094238
+density_v2,10,913,91.3,99.5,572.6434512138367

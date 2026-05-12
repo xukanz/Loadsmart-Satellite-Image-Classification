@@ -1,0 +1,3883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>International Warehouse Distribution</name>
+    <description>Warehouse counts by country</description>
+    <Style id="warehouseIcon">
+      <IconStyle>
+        <color>14D64D</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+
+    
+    <Placemark>
+      <name>64ca7587-a0b0-49d4-b140-74d691d72465</name>
+      <description><![CDATA[
+        <b>ID: 64ca7587-a0b0-49d4-b140-74d691d72465</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-83.97244189999999,33.9662122,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>5def5206-f194-471a-ad37-6799230ace36</name>
+      <description><![CDATA[
+        <b>ID: 5def5206-f194-471a-ad37-6799230ace36</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-112.0043703,41.2625615,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>0210fd59-e763-43de-ac46-9588cbc9a57b</name>
+      <description><![CDATA[
+        <b>ID: 0210fd59-e763-43de-ac46-9588cbc9a57b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-96.6698261,32.8584045,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>3c45b517-3152-47bd-a79a-0eec76bd6714</name>
+      <description><![CDATA[
+        <b>ID: 3c45b517-3152-47bd-a79a-0eec76bd6714</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-97.09736,32.0351276,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>4f273068-b659-4901-addf-c1f6b15d7b36</name>
+      <description><![CDATA[
+        <b>ID: 4f273068-b659-4901-addf-c1f6b15d7b36</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.1869158,38.0241455,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>a038bec1-b649-4fc6-9339-e32b85c4079b</name>
+      <description><![CDATA[
+        <b>ID: a038bec1-b649-4fc6-9339-e32b85c4079b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-82.07734,40.750729,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>dc8eb6dd-79db-4162-a0db-13563954ade8</name>
+      <description><![CDATA[
+        <b>ID: dc8eb6dd-79db-4162-a0db-13563954ade8</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-86.3575819,39.7354711,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>9af3c5c6-a8ea-4bea-aed6-1f1eda0127a0</name>
+      <description><![CDATA[
+        <b>ID: 9af3c5c6-a8ea-4bea-aed6-1f1eda0127a0</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-76.9109562,36.6785426,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b3dcadd8-81f0-4f6b-8bb1-4b312af1b7e8</name>
+      <description><![CDATA[
+        <b>ID: b3dcadd8-81f0-4f6b-8bb1-4b312af1b7e8</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-74.1212309,40.63396789999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>522fc7ba-1cac-49b1-90e2-5e10eb9c0f65</name>
+      <description><![CDATA[
+        <b>ID: 522fc7ba-1cac-49b1-90e2-5e10eb9c0f65</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-86.1704073,39.7521593,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>be662038-6b3e-4762-8cbb-895568e20d7d</name>
+      <description><![CDATA[
+        <b>ID: be662038-6b3e-4762-8cbb-895568e20d7d</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-74.2769278,40.9358331,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>610098d8-feb3-4987-84b7-c4453df02599</name>
+      <description><![CDATA[
+        <b>ID: 610098d8-feb3-4987-84b7-c4453df02599</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-76.6601544,39.4881306,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>d9bcdc15-dcb0-4a29-a5de-24fe04f818fd</name>
+      <description><![CDATA[
+        <b>ID: d9bcdc15-dcb0-4a29-a5de-24fe04f818fd</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-121.5552131,36.99441710000001,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>d7a25cc0-1f07-4770-b160-6cba136da648</name>
+      <description><![CDATA[
+        <b>ID: d7a25cc0-1f07-4770-b160-6cba136da648</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.62671019999999,33.3984409,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>98472160-fd6a-482d-b562-6aa610cecb31</name>
+      <description><![CDATA[
+        <b>ID: 98472160-fd6a-482d-b562-6aa610cecb31</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-89.0823164,42.84105599999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>c2978693-0c16-4f44-b8d8-0dc24708da0a</name>
+      <description><![CDATA[
+        <b>ID: c2978693-0c16-4f44-b8d8-0dc24708da0a</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-70.92000589999999,41.6243328,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>53c023da-c6c6-4a22-923d-d6391f7c4d9c</name>
+      <description><![CDATA[
+        <b>ID: 53c023da-c6c6-4a22-923d-d6391f7c4d9c</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-77.9991883,42.9818751,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>96c55a96-4401-4d84-90a8-de0533b55992</name>
+      <description><![CDATA[
+        <b>ID: 96c55a96-4401-4d84-90a8-de0533b55992</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-71.3952826,42.0518382,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>d6e0bd7b-a2f9-42f4-973a-79569477f525</name>
+      <description><![CDATA[
+        <b>ID: d6e0bd7b-a2f9-42f4-973a-79569477f525</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-74.0408448,40.2505214,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>7fd32ff2-1e9d-443b-9e02-4e2eb46baf13</name>
+      <description><![CDATA[
+        <b>ID: 7fd32ff2-1e9d-443b-9e02-4e2eb46baf13</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-121.1930092,37.9131404,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>6b221271-3ce6-4305-af95-d2bfe7dac634</name>
+      <description><![CDATA[
+        <b>ID: 6b221271-3ce6-4305-af95-d2bfe7dac634</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-122.5433576,45.40829009999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>e5eb60eb-7475-4a3f-9296-abdfb0aab6b0</name>
+      <description><![CDATA[
+        <b>ID: e5eb60eb-7475-4a3f-9296-abdfb0aab6b0</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-96.9461994,46.8796962,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>7aff8fa4-3455-4ca3-99a6-33d8ad448c48</name>
+      <description><![CDATA[
+        <b>ID: 7aff8fa4-3455-4ca3-99a6-33d8ad448c48</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-74.7294924,40.8953418,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>0a9f147f-9ec1-4ab5-b3cd-dbabf0f0b497</name>
+      <description><![CDATA[
+        <b>ID: 0a9f147f-9ec1-4ab5-b3cd-dbabf0f0b497</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-115.1865075,36.069578,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>2e86e42c-64f8-4f53-a6ca-8a8135146131</name>
+      <description><![CDATA[
+        <b>ID: 2e86e42c-64f8-4f53-a6ca-8a8135146131</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-94.8817774,29.7269668,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>1f8419f6-79a9-4403-ad73-47cf91038d4e</name>
+      <description><![CDATA[
+        <b>ID: 1f8419f6-79a9-4403-ad73-47cf91038d4e</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-72.372591,43.6695007,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>6288ffb7-d929-49f1-8c9d-9a8bf718bc1e</name>
+      <description><![CDATA[
+        <b>ID: 6288ffb7-d929-49f1-8c9d-9a8bf718bc1e</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-81.18143959999999,32.0984372,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>afa7cf2c-bbdc-495e-820b-67988f108c2c</name>
+      <description><![CDATA[
+        <b>ID: afa7cf2c-bbdc-495e-820b-67988f108c2c</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-116.794207,47.783488,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>96623217-2fe6-4375-9677-9e12ba24723c</name>
+      <description><![CDATA[
+        <b>ID: 96623217-2fe6-4375-9677-9e12ba24723c</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-77.0761615,39.0859156,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>5e9e2bee-9e14-48f2-96a9-dd5875b18a83</name>
+      <description><![CDATA[
+        <b>ID: 5e9e2bee-9e14-48f2-96a9-dd5875b18a83</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.15020059999999,33.4237443,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b18fd08a-5e1d-4f26-b070-5ad67779ea75</name>
+      <description><![CDATA[
+        <b>ID: b18fd08a-5e1d-4f26-b070-5ad67779ea75</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-81.33791099999999,35.2206173,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>c9c41fed-2c55-47cd-a480-ab21a97c153e</name>
+      <description><![CDATA[
+        <b>ID: c9c41fed-2c55-47cd-a480-ab21a97c153e</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-122.3639334,47.0944213,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>2c0b3619-de03-4392-936d-5f632c4371cd</name>
+      <description><![CDATA[
+        <b>ID: 2c0b3619-de03-4392-936d-5f632c4371cd</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-87.91405999999999,41.9112166,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>858fe9b8-f273-48e4-a368-e6b8c4a9a326</name>
+      <description><![CDATA[
+        <b>ID: 858fe9b8-f273-48e4-a368-e6b8c4a9a326</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-104.96298,39.5653159,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>8d295e6f-8ec0-4720-926d-49fb4d79d255</name>
+      <description><![CDATA[
+        <b>ID: 8d295e6f-8ec0-4720-926d-49fb4d79d255</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-110.7812044,31.875473,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>e4ad9f40-47a6-4d30-b1b7-6f4ec0601dd7</name>
+      <description><![CDATA[
+        <b>ID: e4ad9f40-47a6-4d30-b1b7-6f4ec0601dd7</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-87.7574668,41.6800343,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b9065365-935a-4889-b996-ad47a76a7767</name>
+      <description><![CDATA[
+        <b>ID: b9065365-935a-4889-b996-ad47a76a7767</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.22569720000001,39.3934659,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>7e960414-65a3-4ae4-84a7-31d3d24e37d7</name>
+      <description><![CDATA[
+        <b>ID: 7e960414-65a3-4ae4-84a7-31d3d24e37d7</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-74.22838899999999,40.0728186,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>c7be25f2-8dcc-4478-b164-b8c087c309a9</name>
+      <description><![CDATA[
+        <b>ID: c7be25f2-8dcc-4478-b164-b8c087c309a9</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-96.6746551,32.90337580000001,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>726a07b4-d027-4724-81cc-b336610c73ef</name>
+      <description><![CDATA[
+        <b>ID: 726a07b4-d027-4724-81cc-b336610c73ef</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-81.87228100000002,26.629639,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>33d94cd5-f30f-41a1-b429-e8654d51cfee</name>
+      <description><![CDATA[
+        <b>ID: 33d94cd5-f30f-41a1-b429-e8654d51cfee</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-87.7409591,41.8637008,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>a7fd12cf-b86b-4241-8b91-c6dd23790ff6</name>
+      <description><![CDATA[
+        <b>ID: a7fd12cf-b86b-4241-8b91-c6dd23790ff6</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-79.81368780000001,32.8413786,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>75b3b40d-906f-402f-b747-b6d69a870e79</name>
+      <description><![CDATA[
+        <b>ID: 75b3b40d-906f-402f-b747-b6d69a870e79</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-118.3722889,34.2405174,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>611f921a-f7f3-4a76-bc8e-27ff9eeb9aa7</name>
+      <description><![CDATA[
+        <b>ID: 611f921a-f7f3-4a76-bc8e-27ff9eeb9aa7</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-97.34838669999999,42.8863853,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>20927a98-82e7-4157-94b4-815de8eafd91</name>
+      <description><![CDATA[
+        <b>ID: 20927a98-82e7-4157-94b4-815de8eafd91</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-80.32845379999999,36.0688569,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>7618ba29-18dd-4f43-abb5-bcdab82a2cfe</name>
+      <description><![CDATA[
+        <b>ID: 7618ba29-18dd-4f43-abb5-bcdab82a2cfe</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-89.4838588,43.5561199,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>3c7f5370-c17c-4d6a-b3ce-29fe31688f30</name>
+      <description><![CDATA[
+        <b>ID: 3c7f5370-c17c-4d6a-b3ce-29fe31688f30</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-83.9490982,34.1365345,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>859fd006-3e6e-44ef-b9e3-309f5c22371c</name>
+      <description><![CDATA[
+        <b>ID: 859fd006-3e6e-44ef-b9e3-309f5c22371c</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-80.9489377,35.1131646,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>2d8ab1ba-fc77-4d6e-920a-55268cab8e14</name>
+      <description><![CDATA[
+        <b>ID: 2d8ab1ba-fc77-4d6e-920a-55268cab8e14</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-121.9863466,38.2745293,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>19ac3ec5-d817-4418-bbbe-cc63c4e6cc33</name>
+      <description><![CDATA[
+        <b>ID: 19ac3ec5-d817-4418-bbbe-cc63c4e6cc33</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-76.900772,38.917996,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>9c8f82b3-34ec-4eb1-a08c-39562e1f6f3a</name>
+      <description><![CDATA[
+        <b>ID: 9c8f82b3-34ec-4eb1-a08c-39562e1f6f3a</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.6512774,39.0137395,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f4f8ba54-61f6-4989-9e7a-5c2ea96782e9</name>
+      <description><![CDATA[
+        <b>ID: f4f8ba54-61f6-4989-9e7a-5c2ea96782e9</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-93.7748094,32.4481943,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>e8f26268-081c-4e57-8ce5-2507b6021a59</name>
+      <description><![CDATA[
+        <b>ID: e8f26268-081c-4e57-8ce5-2507b6021a59</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-76.95468079999999,40.2291794,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>995cb512-e10b-4af1-995e-4d7b97499b9b</name>
+      <description><![CDATA[
+        <b>ID: 995cb512-e10b-4af1-995e-4d7b97499b9b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-113.2403977,53.7517764,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>ac15eb01-275b-4c90-8f4d-7840fcfbebf8</name>
+      <description><![CDATA[
+        <b>ID: ac15eb01-275b-4c90-8f4d-7840fcfbebf8</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-88.326529,41.7913035,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>018dd4c1-6d50-48ea-b14f-a44200407329</name>
+      <description><![CDATA[
+        <b>ID: 018dd4c1-6d50-48ea-b14f-a44200407329</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-82.0082585,34.9486879,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>6493440d-a242-4253-b489-3542dbe9b54c</name>
+      <description><![CDATA[
+        <b>ID: 6493440d-a242-4253-b489-3542dbe9b54c</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-122.3221592,47.2927541,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>3f1e2d82-273d-4ed0-a9b3-7b7f4d92623e</name>
+      <description><![CDATA[
+        <b>ID: 3f1e2d82-273d-4ed0-a9b3-7b7f4d92623e</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-76.54531639999999,39.28501010000001,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>2e267afb-4c6b-4bc4-ba7f-9133ac13a2e3</name>
+      <description><![CDATA[
+        <b>ID: 2e267afb-4c6b-4bc4-ba7f-9133ac13a2e3</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.4569188,34.0517317,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>8e015bd4-be04-4928-a098-00b184c927fb</name>
+      <description><![CDATA[
+        <b>ID: 8e015bd4-be04-4928-a098-00b184c927fb</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-87.9459096,41.9840414,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>9584e161-a9bd-434d-819e-496279500407</name>
+      <description><![CDATA[
+        <b>ID: 9584e161-a9bd-434d-819e-496279500407</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-81.270847,32.1705144,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>681d2ab4-fdf1-45e6-8f05-23527243f7f6</name>
+      <description><![CDATA[
+        <b>ID: 681d2ab4-fdf1-45e6-8f05-23527243f7f6</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-95.43929829999999,29.7798592,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f946d490-d21f-4367-97a0-69de13bc243b</name>
+      <description><![CDATA[
+        <b>ID: f946d490-d21f-4367-97a0-69de13bc243b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-122.7567491,45.6300271,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>478aa9a7-bd9d-4934-8947-7d10ede8db6a</name>
+      <description><![CDATA[
+        <b>ID: 478aa9a7-bd9d-4934-8947-7d10ede8db6a</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-85.654377,41.8374288,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>d086d23a-3e08-4971-90a4-d5d9720cea68</name>
+      <description><![CDATA[
+        <b>ID: d086d23a-3e08-4971-90a4-d5d9720cea68</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-73.52372470000002,45.3986861,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>140db73f-0642-4032-a594-61b0e8461bbc</name>
+      <description><![CDATA[
+        <b>ID: 140db73f-0642-4032-a594-61b0e8461bbc</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-75.07949239999999,39.92984209999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>68b9afea-e6fd-4024-a341-eaa7ff25dc6c</name>
+      <description><![CDATA[
+        <b>ID: 68b9afea-e6fd-4024-a341-eaa7ff25dc6c</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-81.4548088,41.355337,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>7b9cf8a5-4c43-4e22-82c9-028a2fb2ec50</name>
+      <description><![CDATA[
+        <b>ID: 7b9cf8a5-4c43-4e22-82c9-028a2fb2ec50</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-87.5885459,41.7203455,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>ec683857-231e-42fd-aa74-46a7bb904249</name>
+      <description><![CDATA[
+        <b>ID: ec683857-231e-42fd-aa74-46a7bb904249</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-89.10088689999999,41.5558675,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b12948d6-b992-4cc5-9ac9-af1e9d5333e7</name>
+      <description><![CDATA[
+        <b>ID: b12948d6-b992-4cc5-9ac9-af1e9d5333e7</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-119.7483455,36.7060283,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>e6205fb2-4c4b-4cf8-b833-62605ed84d53</name>
+      <description><![CDATA[
+        <b>ID: e6205fb2-4c4b-4cf8-b833-62605ed84d53</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-97.0382503,37.0503054,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>fdea9d77-31ba-4266-beaf-65bff10842da</name>
+      <description><![CDATA[
+        <b>ID: fdea9d77-31ba-4266-beaf-65bff10842da</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-86.2630459,39.9040034,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>647ccbc4-7f3d-4b92-a72a-0e8a2b28499a</name>
+      <description><![CDATA[
+        <b>ID: 647ccbc4-7f3d-4b92-a72a-0e8a2b28499a</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-79.8421149,34.1888131,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>cfbb46c5-97f7-4af0-913a-01cf0360bda0</name>
+      <description><![CDATA[
+        <b>ID: cfbb46c5-97f7-4af0-913a-01cf0360bda0</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-72.6643529,46.379695,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>069dc305-0e86-426a-aad3-c77d87de7540</name>
+      <description><![CDATA[
+        <b>ID: 069dc305-0e86-426a-aad3-c77d87de7540</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-98.6527761,29.5692621,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>1d6960ae-da76-4ba2-980e-3bb3fbdffe61</name>
+      <description><![CDATA[
+        <b>ID: 1d6960ae-da76-4ba2-980e-3bb3fbdffe61</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-83.6741352,33.8075193,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>07976afb-d93d-437d-94b5-8262fdf0cc0d</name>
+      <description><![CDATA[
+        <b>ID: 07976afb-d93d-437d-94b5-8262fdf0cc0d</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.03772909999999,34.0403559,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>4f66a159-7a2b-4638-94cc-31e713dff238</name>
+      <description><![CDATA[
+        <b>ID: 4f66a159-7a2b-4638-94cc-31e713dff238</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-81.364312,28.414503,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>8f39c198-f23d-4def-bf62-ad3bfc6e3ac2</name>
+      <description><![CDATA[
+        <b>ID: 8f39c198-f23d-4def-bf62-ad3bfc6e3ac2</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-88.0699849,41.6760207,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>d4daeadc-bd63-40c1-aaaa-7923a368ee90</name>
+      <description><![CDATA[
+        <b>ID: d4daeadc-bd63-40c1-aaaa-7923a368ee90</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.6697633,39.0178955,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>61535092-6049-4ddd-9ccc-cdd709d845f4</name>
+      <description><![CDATA[
+        <b>ID: 61535092-6049-4ddd-9ccc-cdd709d845f4</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-77.42228899999999,37.1928286,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>92b2a5f7-fd60-4f17-992f-9358c67e9acb</name>
+      <description><![CDATA[
+        <b>ID: 92b2a5f7-fd60-4f17-992f-9358c67e9acb</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-88.19050299999999,43.12105529999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>fdd257ad-c306-4780-9d5f-743dfd47b3af</name>
+      <description><![CDATA[
+        <b>ID: fdd257ad-c306-4780-9d5f-743dfd47b3af</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-87.6466973,41.8193391,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>0a37fa46-ca33-48d7-80e7-8d8d01ff3233</name>
+      <description><![CDATA[
+        <b>ID: 0a37fa46-ca33-48d7-80e7-8d8d01ff3233</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-87.5548384,40.128498,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>20f10f6a-d708-4ba8-b1af-953185573a9c</name>
+      <description><![CDATA[
+        <b>ID: 20f10f6a-d708-4ba8-b1af-953185573a9c</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-119.74975,39.4127281,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>db78c180-cb8e-45d5-9701-dbe3df3c0d5b</name>
+      <description><![CDATA[
+        <b>ID: db78c180-cb8e-45d5-9701-dbe3df3c0d5b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-118.8523873,45.6721965,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>019b4262-1bc5-4722-bac1-675a563fb727</name>
+      <description><![CDATA[
+        <b>ID: 019b4262-1bc5-4722-bac1-675a563fb727</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.2156923,33.8498597,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>88b40b8c-254d-4177-9dd2-dbfa57979e79</name>
+      <description><![CDATA[
+        <b>ID: 88b40b8c-254d-4177-9dd2-dbfa57979e79</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-97.02412330000001,32.9800115,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>8d1b50f8-24b4-4d55-930a-5c3360e102e4</name>
+      <description><![CDATA[
+        <b>ID: 8d1b50f8-24b4-4d55-930a-5c3360e102e4</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-74.0798799,45.68298100000001,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>7cbe6664-08e5-471e-98c3-5d3935546fea</name>
+      <description><![CDATA[
+        <b>ID: 7cbe6664-08e5-471e-98c3-5d3935546fea</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-118.5770675,34.2385744,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>0e0a9a64-1f9b-4889-8488-f30cb25020c9</name>
+      <description><![CDATA[
+        <b>ID: 0e0a9a64-1f9b-4889-8488-f30cb25020c9</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-91.0077659,30.22361679999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>bf567e4b-8de8-4b77-8b79-97d93fac2bdd</name>
+      <description><![CDATA[
+        <b>ID: bf567e4b-8de8-4b77-8b79-97d93fac2bdd</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-118.1495712,33.799479,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>87586c21-fa62-4415-8147-e55ef2853be6</name>
+      <description><![CDATA[
+        <b>ID: 87586c21-fa62-4415-8147-e55ef2853be6</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-83.812736,38.6427114,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>0081884f-e6f3-44e4-adfd-e2975d417a12</name>
+      <description><![CDATA[
+        <b>ID: 0081884f-e6f3-44e4-adfd-e2975d417a12</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-2.8857267,56.48440069999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>102d3d55-7c82-481e-88bd-9610458fa647</name>
+      <description><![CDATA[
+        <b>ID: 102d3d55-7c82-481e-88bd-9610458fa647</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-93.269542,45.0550641,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>cf348da9-d70c-40c9-88a6-08beada5a340</name>
+      <description><![CDATA[
+        <b>ID: cf348da9-d70c-40c9-88a6-08beada5a340</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-90.56419319999999,41.4426626,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>454f4d7f-31a3-464b-97ee-158237db32e0</name>
+      <description><![CDATA[
+        <b>ID: 454f4d7f-31a3-464b-97ee-158237db32e0</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-91.06879049999999,38.8228664,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>709d52c1-ca16-4c15-80ab-d747943cdefc</name>
+      <description><![CDATA[
+        <b>ID: 709d52c1-ca16-4c15-80ab-d747943cdefc</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-91.3393488,39.9372947,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>071a0a12-b9a1-4d95-801f-c56722f72849</name>
+      <description><![CDATA[
+        <b>ID: 071a0a12-b9a1-4d95-801f-c56722f72849</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-73.13740659999999,7.0849815,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>21fed511-80d3-4d99-9f0b-197471151a09</name>
+      <description><![CDATA[
+        <b>ID: 21fed511-80d3-4d99-9f0b-197471151a09</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-72.91558429999999,40.8252859,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>c14b7521-6add-4a51-80d0-7685a136b127</name>
+      <description><![CDATA[
+        <b>ID: c14b7521-6add-4a51-80d0-7685a136b127</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-97.04354099999999,49.8741949,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>228469b1-ac78-48d1-8f78-92c880004611</name>
+      <description><![CDATA[
+        <b>ID: 228469b1-ac78-48d1-8f78-92c880004611</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-74.045773,45.398451,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>272c2637-f97f-4685-b857-1aeaa15c41ba</name>
+      <description><![CDATA[
+        <b>ID: 272c2637-f97f-4685-b857-1aeaa15c41ba</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-89.59848339999999,34.9684177,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>bc5f86b8-174b-49fa-8660-1d1b42dfa5c7</name>
+      <description><![CDATA[
+        <b>ID: bc5f86b8-174b-49fa-8660-1d1b42dfa5c7</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-88.9985018,36.0935862,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b3a812c0-ae18-4a00-b7b9-5fa672c34fe3</name>
+      <description><![CDATA[
+        <b>ID: b3a812c0-ae18-4a00-b7b9-5fa672c34fe3</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-116.1477365,43.5618047,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>2f984b6a-80be-4f99-a44e-cf87d1604879</name>
+      <description><![CDATA[
+        <b>ID: 2f984b6a-80be-4f99-a44e-cf87d1604879</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-89.535294,43.0984683,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>53ffd7e0-618c-4eef-8456-e1b844680310</name>
+      <description><![CDATA[
+        <b>ID: 53ffd7e0-618c-4eef-8456-e1b844680310</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-120.9772975,37.5510357,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f007f729-389b-4816-9e51-31fd967a862f</name>
+      <description><![CDATA[
+        <b>ID: f007f729-389b-4816-9e51-31fd967a862f</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-73.4254425,46.0237332,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>02bca119-93bb-4480-9d00-066a06bba9cd</name>
+      <description><![CDATA[
+        <b>ID: 02bca119-93bb-4480-9d00-066a06bba9cd</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-75.6931275,41.3724326,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>67d1acc8-729f-42f3-abec-b746a130a95f</name>
+      <description><![CDATA[
+        <b>ID: 67d1acc8-729f-42f3-abec-b746a130a95f</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-80.3361067,25.8473822,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>69e612b7-11fa-4fe3-b55e-c195e4a9393a</name>
+      <description><![CDATA[
+        <b>ID: 69e612b7-11fa-4fe3-b55e-c195e4a9393a</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-91.4924283,44.8156793,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>95300d5e-5712-42f1-bd35-0e7f269b94ef</name>
+      <description><![CDATA[
+        <b>ID: 95300d5e-5712-42f1-bd35-0e7f269b94ef</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-112.0170364,40.7380416,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>581bbc66-7c6b-40c5-a326-f32a9b7a9739</name>
+      <description><![CDATA[
+        <b>ID: 581bbc66-7c6b-40c5-a326-f32a9b7a9739</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-111.8907954,40.5319141,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>037a4a96-8765-4148-a83e-f4b38d5d77f9</name>
+      <description><![CDATA[
+        <b>ID: 037a4a96-8765-4148-a83e-f4b38d5d77f9</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.7177765,38.062353,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>e8e0fd81-a60c-4c1a-89e0-31ded08d4bc1</name>
+      <description><![CDATA[
+        <b>ID: e8e0fd81-a60c-4c1a-89e0-31ded08d4bc1</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-75.6068775,40.5847532,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>729c18c1-0088-47f5-9cfc-75581a2b8a33</name>
+      <description><![CDATA[
+        <b>ID: 729c18c1-0088-47f5-9cfc-75581a2b8a33</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-92.0717437,34.2584513,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>edb7dbf7-572f-4e16-8198-9c901cb8a6cb</name>
+      <description><![CDATA[
+        <b>ID: edb7dbf7-572f-4e16-8198-9c901cb8a6cb</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.5623291,33.54559649999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>a1e017f4-e92c-44fc-8355-27093cca1c17</name>
+      <description><![CDATA[
+        <b>ID: a1e017f4-e92c-44fc-8355-27093cca1c17</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-93.72923229999999,46.5291258,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>3c6b38f3-9ca3-43f6-98df-f1d3d82dd50a</name>
+      <description><![CDATA[
+        <b>ID: 3c6b38f3-9ca3-43f6-98df-f1d3d82dd50a</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.55402269999999,33.7534277,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>3b122619-5107-4277-8a1b-d3a076d3e2da</name>
+      <description><![CDATA[
+        <b>ID: 3b122619-5107-4277-8a1b-d3a076d3e2da</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.9305753,34.132546,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>9a98ed98-c7e7-4fa6-b57f-6cab5833d05b</name>
+      <description><![CDATA[
+        <b>ID: 9a98ed98-c7e7-4fa6-b57f-6cab5833d05b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-105.0755606,39.7892497,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>8075be2a-17ee-47a3-8642-99131f152fd1</name>
+      <description><![CDATA[
+        <b>ID: 8075be2a-17ee-47a3-8642-99131f152fd1</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-111.9521834,40.7995138,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>de87ca4b-9fcd-4dad-b3bb-9f7c2e3eb0db</name>
+      <description><![CDATA[
+        <b>ID: de87ca4b-9fcd-4dad-b3bb-9f7c2e3eb0db</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-81.7817807,28.0690271,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>98e0adf2-5af6-42bd-8af2-19f595f18d02</name>
+      <description><![CDATA[
+        <b>ID: 98e0adf2-5af6-42bd-8af2-19f595f18d02</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-85.4073963,31.2598963,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>eaa37b4a-d823-4f09-b1c2-d5086c4fc580</name>
+      <description><![CDATA[
+        <b>ID: eaa37b4a-d823-4f09-b1c2-d5086c4fc580</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-80.1475,26.7063074,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>1f6f9b6a-e1ba-44e6-b103-dae23b071920</name>
+      <description><![CDATA[
+        <b>ID: 1f6f9b6a-e1ba-44e6-b103-dae23b071920</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-115.0764663,36.236649,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f8f40b4e-48f0-4948-a4b6-a28187a1c808</name>
+      <description><![CDATA[
+        <b>ID: f8f40b4e-48f0-4948-a4b6-a28187a1c808</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-118.2080919,33.8528182,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>0c83ff81-d22d-4639-932c-29adf1c57256</name>
+      <description><![CDATA[
+        <b>ID: 0c83ff81-d22d-4639-932c-29adf1c57256</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-83.2964993,42.3769307,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>5729bb8a-ed8c-4571-8088-4927a2e141c0</name>
+      <description><![CDATA[
+        <b>ID: 5729bb8a-ed8c-4571-8088-4927a2e141c0</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-90.05511829999999,30.482193,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>636ce8ee-0214-4835-a8ae-fba139dfb8da</name>
+      <description><![CDATA[
+        <b>ID: 636ce8ee-0214-4835-a8ae-fba139dfb8da</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-96.1429268,41.1141725,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>dc3d388e-a7b7-496c-86ed-59d07895a822</name>
+      <description><![CDATA[
+        <b>ID: dc3d388e-a7b7-496c-86ed-59d07895a822</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-82.3857599,27.0508914,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>2791a210-f20a-4839-9161-0297f65a29f5</name>
+      <description><![CDATA[
+        <b>ID: 2791a210-f20a-4839-9161-0297f65a29f5</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-111.8669849,33.4095536,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>d4832bfe-f0ab-4a81-8395-11c99d35d1fe</name>
+      <description><![CDATA[
+        <b>ID: d4832bfe-f0ab-4a81-8395-11c99d35d1fe</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-97.3193122,32.8196733,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>734f6169-7eff-4670-9584-82ba0fc03ed1</name>
+      <description><![CDATA[
+        <b>ID: 734f6169-7eff-4670-9584-82ba0fc03ed1</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-121.3909565,38.5276778,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>3f76e40c-86d8-4118-91f8-c331e0ee92bc</name>
+      <description><![CDATA[
+        <b>ID: 3f76e40c-86d8-4118-91f8-c331e0ee92bc</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>3.474142,50.8992253,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b2e62be5-1399-4070-bf6b-2332d2445120</name>
+      <description><![CDATA[
+        <b>ID: b2e62be5-1399-4070-bf6b-2332d2445120</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-93.49913839999999,41.6678167,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b49a44e1-d9aa-46b7-bfe0-084cc780ec88</name>
+      <description><![CDATA[
+        <b>ID: b49a44e1-d9aa-46b7-bfe0-084cc780ec88</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-88.4327327,44.2356895,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>c164dccf-6fe6-4fdd-80e2-4d1ac49fc2a3</name>
+      <description><![CDATA[
+        <b>ID: c164dccf-6fe6-4fdd-80e2-4d1ac49fc2a3</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-95.4259912,29.9266229,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f2898288-a9bf-4e28-b865-b7b54e7bbb08</name>
+      <description><![CDATA[
+        <b>ID: f2898288-a9bf-4e28-b865-b7b54e7bbb08</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-122.2623652,47.4434461,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>7187044b-7b59-4012-a4ae-5b278e21e039</name>
+      <description><![CDATA[
+        <b>ID: 7187044b-7b59-4012-a4ae-5b278e21e039</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-78.2539023,36.4281334,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>62c35a60-d382-407e-a8c9-6d63bfd9ead3</name>
+      <description><![CDATA[
+        <b>ID: 62c35a60-d382-407e-a8c9-6d63bfd9ead3</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-87.95671109999999,42.3924576,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>721c00d5-a042-46ed-88b4-97eecec89a89</name>
+      <description><![CDATA[
+        <b>ID: 721c00d5-a042-46ed-88b4-97eecec89a89</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-119.9062945,36.8293245,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b829142b-3ee7-4c10-a2f9-fa80e08015e2</name>
+      <description><![CDATA[
+        <b>ID: b829142b-3ee7-4c10-a2f9-fa80e08015e2</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-123.4222475,42.7437355,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>7aa4a2d3-5af9-48f7-a01d-cef044da3bf5</name>
+      <description><![CDATA[
+        <b>ID: 7aa4a2d3-5af9-48f7-a01d-cef044da3bf5</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-73.5482368,45.5642369,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>dd384d69-9fb1-4c03-bb6b-57f86fb519bd</name>
+      <description><![CDATA[
+        <b>ID: dd384d69-9fb1-4c03-bb6b-57f86fb519bd</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-122.2460466,47.41154119999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>19caabd7-0cae-450f-801a-4863ca3690dd</name>
+      <description><![CDATA[
+        <b>ID: 19caabd7-0cae-450f-801a-4863ca3690dd</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-74.3893527,40.8618772,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b9d152e8-4464-40b5-b114-4795d5e3b57f</name>
+      <description><![CDATA[
+        <b>ID: b9d152e8-4464-40b5-b114-4795d5e3b57f</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-87.8918613,34.7668834,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>685d5ba2-cdd4-4eaa-8977-2a371f04fd73</name>
+      <description><![CDATA[
+        <b>ID: 685d5ba2-cdd4-4eaa-8977-2a371f04fd73</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-112.3704194,33.4349325,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>c10a68e3-5842-4fab-84c4-a0b6a56bc7f6</name>
+      <description><![CDATA[
+        <b>ID: c10a68e3-5842-4fab-84c4-a0b6a56bc7f6</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-79.42560069999999,36.0604781,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>df623c0b-6163-4b21-b3cc-298eddae9678</name>
+      <description><![CDATA[
+        <b>ID: df623c0b-6163-4b21-b3cc-298eddae9678</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-97.0834616,32.9164475,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>5286a114-5749-4a06-afeb-6219edc5e94b</name>
+      <description><![CDATA[
+        <b>ID: 5286a114-5749-4a06-afeb-6219edc5e94b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-114.4098399,42.5460182,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>a2844472-5eec-4d7b-a2ad-1eb066b1cf05</name>
+      <description><![CDATA[
+        <b>ID: a2844472-5eec-4d7b-a2ad-1eb066b1cf05</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-86.6854555,34.74562239999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>31974103-c826-42a3-9a06-0ce5ab370e9c</name>
+      <description><![CDATA[
+        <b>ID: 31974103-c826-42a3-9a06-0ce5ab370e9c</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-94.1449825,36.3466261,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f45d9711-8a2f-492c-b60a-1f6c1100e95f</name>
+      <description><![CDATA[
+        <b>ID: f45d9711-8a2f-492c-b60a-1f6c1100e95f</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-123.0387898,49.1513497,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f22b661c-dfe0-4da7-88a2-2fc16829d6c9</name>
+      <description><![CDATA[
+        <b>ID: f22b661c-dfe0-4da7-88a2-2fc16829d6c9</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-91.6313246,44.0527905,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b211b458-e9d6-42b3-865d-c2c60e67bd3b</name>
+      <description><![CDATA[
+        <b>ID: b211b458-e9d6-42b3-865d-c2c60e67bd3b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-123.0220289,44.0462362,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>45d595e3-1964-43d5-a09c-db2527318048</name>
+      <description><![CDATA[
+        <b>ID: 45d595e3-1964-43d5-a09c-db2527318048</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-81.7852406,27.9468106,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>77c3f742-ed45-48c1-af6f-06e426beb2ca</name>
+      <description><![CDATA[
+        <b>ID: 77c3f742-ed45-48c1-af6f-06e426beb2ca</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-95.8796411,36.1784015,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>31c5eaa4-7f98-433c-8922-158750b3d72b</name>
+      <description><![CDATA[
+        <b>ID: 31c5eaa4-7f98-433c-8922-158750b3d72b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-76.8574914,38.8788848,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>4af702c7-d977-4d3d-9a94-00ffb71e6244</name>
+      <description><![CDATA[
+        <b>ID: 4af702c7-d977-4d3d-9a94-00ffb71e6244</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-90.0725712,38.7711612,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>9bbc7efe-4391-4048-a3df-8d92ef0fd7d3</name>
+      <description><![CDATA[
+        <b>ID: 9bbc7efe-4391-4048-a3df-8d92ef0fd7d3</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-122.2010523,47.618276,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>bf769393-ca5a-44b9-b5d8-79246132e3ec</name>
+      <description><![CDATA[
+        <b>ID: bf769393-ca5a-44b9-b5d8-79246132e3ec</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-122.7413943,45.5612321,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>249c1200-f19a-45f1-84f5-8d77fb2235df</name>
+      <description><![CDATA[
+        <b>ID: 249c1200-f19a-45f1-84f5-8d77fb2235df</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-82.38263529999999,34.7278482,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>309c0685-3e4b-4526-b9d8-abe78082e5b4</name>
+      <description><![CDATA[
+        <b>ID: 309c0685-3e4b-4526-b9d8-abe78082e5b4</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.6078702,33.9764257,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>44b26002-88b1-450f-892e-8e8dfbda4857</name>
+      <description><![CDATA[
+        <b>ID: 44b26002-88b1-450f-892e-8e8dfbda4857</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.50206220000001,33.6120599,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>2f5a009d-70e3-457d-b910-3fe41850467f</name>
+      <description><![CDATA[
+        <b>ID: 2f5a009d-70e3-457d-b910-3fe41850467f</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.5493301,33.9990915,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>18783f46-a75a-4516-81d6-262c5d897fd8</name>
+      <description><![CDATA[
+        <b>ID: 18783f46-a75a-4516-81d6-262c5d897fd8</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-96.68927939999999,32.8837844,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>629d8e89-aa05-480e-820e-08f82cd49e21</name>
+      <description><![CDATA[
+        <b>ID: 629d8e89-aa05-480e-820e-08f82cd49e21</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-83.0836065,42.47150730000001,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>059a2f15-453d-418a-91ea-c5d4c889367e</name>
+      <description><![CDATA[
+        <b>ID: 059a2f15-453d-418a-91ea-c5d4c889367e</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-74.1422572,40.8015352,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>3f689946-17a2-473e-b0a7-b6bb3450fb45</name>
+      <description><![CDATA[
+        <b>ID: 3f689946-17a2-473e-b0a7-b6bb3450fb45</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-77.2346798,40.2070758,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>8d7df654-0425-42b9-a1bc-dcf4c1631ecf</name>
+      <description><![CDATA[
+        <b>ID: 8d7df654-0425-42b9-a1bc-dcf4c1631ecf</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-88.2937039,41.8010206,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>1802491c-730a-4e46-aacf-c7f602325625</name>
+      <description><![CDATA[
+        <b>ID: 1802491c-730a-4e46-aacf-c7f602325625</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-75.9584963,40.4425268,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>41a42dfa-42a2-4584-ac6f-830bf6ce4f10</name>
+      <description><![CDATA[
+        <b>ID: 41a42dfa-42a2-4584-ac6f-830bf6ce4f10</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-119.0853505,46.2786231,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>1a069189-cabc-4960-9068-0e04a2f32914</name>
+      <description><![CDATA[
+        <b>ID: 1a069189-cabc-4960-9068-0e04a2f32914</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-1.3471385,52.71391449999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>54afe695-0fb0-4fe8-9a89-7df536842d6f</name>
+      <description><![CDATA[
+        <b>ID: 54afe695-0fb0-4fe8-9a89-7df536842d6f</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-80.9129035,35.2703403,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>ca66bccc-45a9-4457-afce-740e23592f44</name>
+      <description><![CDATA[
+        <b>ID: ca66bccc-45a9-4457-afce-740e23592f44</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-83.98140599999999,33.6692974,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>a20e502c-8175-4c92-a641-8b29d09de975</name>
+      <description><![CDATA[
+        <b>ID: a20e502c-8175-4c92-a641-8b29d09de975</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-95.86093869999999,36.06429079999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>fcf3d361-a964-4aca-9526-15024e62bed6</name>
+      <description><![CDATA[
+        <b>ID: fcf3d361-a964-4aca-9526-15024e62bed6</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-118.0959908,34.0041837,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>a16c898a-22c5-48de-94fb-36ee52ff58eb</name>
+      <description><![CDATA[
+        <b>ID: a16c898a-22c5-48de-94fb-36ee52ff58eb</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-86.4977595,36.3683706,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>198eccb0-ca5b-4d2d-b411-1444dabe1eb5</name>
+      <description><![CDATA[
+        <b>ID: 198eccb0-ca5b-4d2d-b411-1444dabe1eb5</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-75.36035559999999,40.68671519999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>348624db-ec06-469f-a168-ef096ef5f9d4</name>
+      <description><![CDATA[
+        <b>ID: 348624db-ec06-469f-a168-ef096ef5f9d4</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-75.3406183,40.6132491,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>da79351b-83a1-4cf6-971a-71ec983aa20a</name>
+      <description><![CDATA[
+        <b>ID: da79351b-83a1-4cf6-971a-71ec983aa20a</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>144.7853535,-37.8476254,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>98271c1f-059f-48f3-a731-6a60d3c6d73a</name>
+      <description><![CDATA[
+        <b>ID: 98271c1f-059f-48f3-a731-6a60d3c6d73a</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-89.88953790000001,35.1569059,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>ffd7a5a0-1d3f-4224-a0e0-e4d0583bf8d5</name>
+      <description><![CDATA[
+        <b>ID: ffd7a5a0-1d3f-4224-a0e0-e4d0583bf8d5</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-88.1239902,41.983797,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b5e78930-a786-4483-a700-f9b9a7f1aca6</name>
+      <description><![CDATA[
+        <b>ID: b5e78930-a786-4483-a700-f9b9a7f1aca6</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.1082382,41.4108759,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f8071405-dcbf-443e-aa41-119797da1fe6</name>
+      <description><![CDATA[
+        <b>ID: f8071405-dcbf-443e-aa41-119797da1fe6</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.4522201,39.1989054,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>16921ec4-e920-473a-b6d8-a98dbcb570ad</name>
+      <description><![CDATA[
+        <b>ID: 16921ec4-e920-473a-b6d8-a98dbcb570ad</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-83.9865396,34.0895697,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>e9514cc3-6fb1-43b7-a90b-f19f118d434d</name>
+      <description><![CDATA[
+        <b>ID: e9514cc3-6fb1-43b7-a90b-f19f118d434d</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-96.6716854,32.8611417,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>8dd4535d-393e-4fe9-a12b-02e2fe6d0251</name>
+      <description><![CDATA[
+        <b>ID: 8dd4535d-393e-4fe9-a12b-02e2fe6d0251</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-77.79693499999999,36.7823281,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>9dc5b0fa-6296-459f-9545-1354f89acc82</name>
+      <description><![CDATA[
+        <b>ID: 9dc5b0fa-6296-459f-9545-1354f89acc82</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-97.2874733,33.1882541,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f9c1cd28-9713-4fe1-b49d-a7205f254b30</name>
+      <description><![CDATA[
+        <b>ID: f9c1cd28-9713-4fe1-b49d-a7205f254b30</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-92.21110519999999,38.5876094,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>a03de2bc-4ea3-4568-8441-6e0410ca61b8</name>
+      <description><![CDATA[
+        <b>ID: a03de2bc-4ea3-4568-8441-6e0410ca61b8</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-86.3728929,36.4096621,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>71e90b10-a4be-4270-a9d4-2841d39b0391</name>
+      <description><![CDATA[
+        <b>ID: 71e90b10-a4be-4270-a9d4-2841d39b0391</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-96.6850311,33.0060672,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f5b7ba62-cf25-4a9f-ae59-e5ff656767cb</name>
+      <description><![CDATA[
+        <b>ID: f5b7ba62-cf25-4a9f-ae59-e5ff656767cb</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-88.2766113,41.7753684,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>c4994443-b64d-4c56-aad7-442888da8e80</name>
+      <description><![CDATA[
+        <b>ID: c4994443-b64d-4c56-aad7-442888da8e80</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-89.0163374,33.918326,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>df883586-b928-4dcb-b368-ab01617d9b27</name>
+      <description><![CDATA[
+        <b>ID: df883586-b928-4dcb-b368-ab01617d9b27</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-122.2419067,47.3613423,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>36feddc1-c758-4133-80c9-31118d883e8c</name>
+      <description><![CDATA[
+        <b>ID: 36feddc1-c758-4133-80c9-31118d883e8c</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.5166439,34.0835445,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>cd60dcbf-207e-465f-806b-df1f138b70b9</name>
+      <description><![CDATA[
+        <b>ID: cd60dcbf-207e-465f-806b-df1f138b70b9</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.2529443,33.8409533,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>92db58d1-6b5e-4062-96bc-3184ed696a83</name>
+      <description><![CDATA[
+        <b>ID: 92db58d1-6b5e-4062-96bc-3184ed696a83</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-81.9945274,27.9924566,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f0a747bd-be78-4d4f-ab6a-60a1c20ca795</name>
+      <description><![CDATA[
+        <b>ID: f0a747bd-be78-4d4f-ab6a-60a1c20ca795</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-78.00918209999999,35.3554196,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b93803f4-f8c1-4d36-a5d1-6a807c77360b</name>
+      <description><![CDATA[
+        <b>ID: b93803f4-f8c1-4d36-a5d1-6a807c77360b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-94.299931,38.6032669,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>78e4deed-1b94-45f1-badf-5c2a49606a4b</name>
+      <description><![CDATA[
+        <b>ID: 78e4deed-1b94-45f1-badf-5c2a49606a4b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-71.471347,41.6256647,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>69a822cc-4164-44f7-ab1b-3b357e43f70c</name>
+      <description><![CDATA[
+        <b>ID: 69a822cc-4164-44f7-ab1b-3b357e43f70c</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-72.1208746,45.663974,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>fa83123f-763a-4b27-af2c-29bf87cc2b35</name>
+      <description><![CDATA[
+        <b>ID: fa83123f-763a-4b27-af2c-29bf87cc2b35</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-86.5924287,35.9969387,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>c9b88e62-d151-47a9-bc07-b20cf0b699f8</name>
+      <description><![CDATA[
+        <b>ID: c9b88e62-d151-47a9-bc07-b20cf0b699f8</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.3415766,33.6110534,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>afcffae8-3146-4efa-a126-d28757bb6bb9</name>
+      <description><![CDATA[
+        <b>ID: afcffae8-3146-4efa-a126-d28757bb6bb9</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-104.4897712,38.2806988,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>90b6bea0-fc87-4b8c-be3f-d666194d45cb</name>
+      <description><![CDATA[
+        <b>ID: 90b6bea0-fc87-4b8c-be3f-d666194d45cb</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-78.609853,36.2938293,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>97b4a68f-48f9-4d27-9053-3f52fb539c70</name>
+      <description><![CDATA[
+        <b>ID: 97b4a68f-48f9-4d27-9053-3f52fb539c70</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-86.2406364,37.0281414,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>faec9ce4-aecb-4bad-a600-8592605641b1</name>
+      <description><![CDATA[
+        <b>ID: faec9ce4-aecb-4bad-a600-8592605641b1</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.1729951,33.9361285,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>708ed827-8596-4574-83aa-e695aef044a8</name>
+      <description><![CDATA[
+        <b>ID: 708ed827-8596-4574-83aa-e695aef044a8</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-74.4753668,42.670995,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>8b710251-5aa9-4d28-8fff-29c7889dfaff</name>
+      <description><![CDATA[
+        <b>ID: 8b710251-5aa9-4d28-8fff-29c7889dfaff</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-97.3191386,32.8440623,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>321788c4-f66f-44cf-9828-2dba840e1113</name>
+      <description><![CDATA[
+        <b>ID: 321788c4-f66f-44cf-9828-2dba840e1113</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-89.0191263,41.36464489999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>349eeaa9-b3c5-470e-b04c-02c9336acc50</name>
+      <description><![CDATA[
+        <b>ID: 349eeaa9-b3c5-470e-b04c-02c9336acc50</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.0428124,32.9444994,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>9eb6a6db-6e55-493d-a709-124e82f63afc</name>
+      <description><![CDATA[
+        <b>ID: 9eb6a6db-6e55-493d-a709-124e82f63afc</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-81.4276821,41.2937671,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>53cc9659-8222-4a9a-9c45-ef897883c1ea</name>
+      <description><![CDATA[
+        <b>ID: 53cc9659-8222-4a9a-9c45-ef897883c1ea</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-70.294219,41.6701732,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f4b17c64-fa2f-4c82-965d-f621f87e5ef3</name>
+      <description><![CDATA[
+        <b>ID: f4b17c64-fa2f-4c82-965d-f621f87e5ef3</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-71.90135599999999,41.739334,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>5d54d073-6724-46e8-9bc4-48e017a72aaf</name>
+      <description><![CDATA[
+        <b>ID: 5d54d073-6724-46e8-9bc4-48e017a72aaf</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-90.0160976,30.0022545,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>240c5a33-47aa-46d2-8920-7ead2b89e399</name>
+      <description><![CDATA[
+        <b>ID: 240c5a33-47aa-46d2-8920-7ead2b89e399</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-87.7456835,41.4623929,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>ed1fbb3f-2c07-4e29-8846-d74db16c6e96</name>
+      <description><![CDATA[
+        <b>ID: ed1fbb3f-2c07-4e29-8846-d74db16c6e96</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-74.969591,40.1118975,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>9373d419-9800-4322-8467-08b7a9251fd1</name>
+      <description><![CDATA[
+        <b>ID: 9373d419-9800-4322-8467-08b7a9251fd1</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-122.2506726,47.4439222,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>7e4e77ed-eb59-4871-ab55-4ff87b4fa63e</name>
+      <description><![CDATA[
+        <b>ID: 7e4e77ed-eb59-4871-ab55-4ff87b4fa63e</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-83.40351,42.264707,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>1b46b20f-3d7f-4d8d-bff7-9f34c45f1091</name>
+      <description><![CDATA[
+        <b>ID: 1b46b20f-3d7f-4d8d-bff7-9f34c45f1091</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-94.98554290000001,29.748537,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>cc726434-4321-4809-9fce-33da7e99e2e3</name>
+      <description><![CDATA[
+        <b>ID: cc726434-4321-4809-9fce-33da7e99e2e3</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-99.2011438,19.7006278,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>5ae396c2-b738-4342-97d2-16d260119d64</name>
+      <description><![CDATA[
+        <b>ID: 5ae396c2-b738-4342-97d2-16d260119d64</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-79.9819409,36.1012021,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>5e25256d-add7-46de-b039-be0230413409</name>
+      <description><![CDATA[
+        <b>ID: 5e25256d-add7-46de-b039-be0230413409</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.5390603,34.1037583,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>1c088b34-f8bd-4c02-9c63-41ef4678c047</name>
+      <description><![CDATA[
+        <b>ID: 1c088b34-f8bd-4c02-9c63-41ef4678c047</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-80.1369947,26.2700293,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>6058363d-5d74-4ac8-a1a5-65d56cf466d9</name>
+      <description><![CDATA[
+        <b>ID: 6058363d-5d74-4ac8-a1a5-65d56cf466d9</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-75.55680330000001,40.0648382,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>8f8b3b6a-6e7d-425f-8b92-adb299a16ab1</name>
+      <description><![CDATA[
+        <b>ID: 8f8b3b6a-6e7d-425f-8b92-adb299a16ab1</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-119.7439852,39.4539904,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>7a1ca1c2-7904-4828-b6ff-4a0ac1c84b71</name>
+      <description><![CDATA[
+        <b>ID: 7a1ca1c2-7904-4828-b6ff-4a0ac1c84b71</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-95.5182974,29.9460975,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>59eba9b8-df20-4718-848a-bea835f94598</name>
+      <description><![CDATA[
+        <b>ID: 59eba9b8-df20-4718-848a-bea835f94598</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-111.2622959,47.5169331,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>97425bce-9cde-4117-8e78-5c3855cd8cf6</name>
+      <description><![CDATA[
+        <b>ID: 97425bce-9cde-4117-8e78-5c3855cd8cf6</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-86.35293530000001,39.6800994,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>078acd93-1a69-42a1-83f6-0489318c7c70</name>
+      <description><![CDATA[
+        <b>ID: 078acd93-1a69-42a1-83f6-0489318c7c70</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-79.1621045,37.3786557,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b116a7c4-a38a-4b74-a9a4-d716526af714</name>
+      <description><![CDATA[
+        <b>ID: b116a7c4-a38a-4b74-a9a4-d716526af714</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-82.5444275,28.017498,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>355a7c1b-e44d-4e85-89c8-a50fe0757b7b</name>
+      <description><![CDATA[
+        <b>ID: 355a7c1b-e44d-4e85-89c8-a50fe0757b7b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-118.578156,34.2406724,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>d53c6522-8a47-4d63-bb7e-feaa49e3557c</name>
+      <description><![CDATA[
+        <b>ID: d53c6522-8a47-4d63-bb7e-feaa49e3557c</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-74.2001459,40.6900593,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>ed93f50e-26aa-4b4c-b2bb-458afe3697f2</name>
+      <description><![CDATA[
+        <b>ID: ed93f50e-26aa-4b4c-b2bb-458afe3697f2</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-80.23661229999999,43.17151399999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>ca1b81da-29c0-47a5-882b-c1ad3dbe5590</name>
+      <description><![CDATA[
+        <b>ID: ca1b81da-29c0-47a5-882b-c1ad3dbe5590</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-90.42238189999999,38.7456233,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>90baef8b-1b57-496e-9968-c469e4009b82</name>
+      <description><![CDATA[
+        <b>ID: 90baef8b-1b57-496e-9968-c469e4009b82</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-118.2202735,33.8603087,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f3071c71-3e7a-46ef-97c7-4db94f90a841</name>
+      <description><![CDATA[
+        <b>ID: f3071c71-3e7a-46ef-97c7-4db94f90a841</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-80.224119,25.9260566,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>8d19e22b-9464-4423-9de8-5fd19baf1cdd</name>
+      <description><![CDATA[
+        <b>ID: 8d19e22b-9464-4423-9de8-5fd19baf1cdd</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-106.5348379,38.7945952,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>0d578a98-ee22-425a-a4a2-174611b7e090</name>
+      <description><![CDATA[
+        <b>ID: 0d578a98-ee22-425a-a4a2-174611b7e090</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-76.8002341,39.14565959999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>ff76e2a6-ed2e-495b-b6c0-4bd65095266d</name>
+      <description><![CDATA[
+        <b>ID: ff76e2a6-ed2e-495b-b6c0-4bd65095266d</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-87.6726066,44.0744955,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>00a430c2-5e0c-48c6-94fe-5617722f5b58</name>
+      <description><![CDATA[
+        <b>ID: 00a430c2-5e0c-48c6-94fe-5617722f5b58</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-94.7088394,38.9878663,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>12adc599-fb39-4acf-86fd-071e8f855421</name>
+      <description><![CDATA[
+        <b>ID: 12adc599-fb39-4acf-86fd-071e8f855421</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-87.6647394,34.8710472,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>cbdf7379-d718-4097-8a9f-2ca08c99e300</name>
+      <description><![CDATA[
+        <b>ID: cbdf7379-d718-4097-8a9f-2ca08c99e300</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-111.9521834,40.7995138,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>614b1f72-fbe6-4e23-b6dc-e70508aa30bc</name>
+      <description><![CDATA[
+        <b>ID: 614b1f72-fbe6-4e23-b6dc-e70508aa30bc</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-88.235011,40.1400609,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f3dc5273-26cb-45a7-ab2e-5c3377b47d4c</name>
+      <description><![CDATA[
+        <b>ID: f3dc5273-26cb-45a7-ab2e-5c3377b47d4c</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.969072,33.71661460000001,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>a27a199f-8dea-4c8d-bc16-b9c113dd2ab4</name>
+      <description><![CDATA[
+        <b>ID: a27a199f-8dea-4c8d-bc16-b9c113dd2ab4</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.3020165,34.0610727,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>fd82a2d3-62ef-4805-819b-7859ef0123ca</name>
+      <description><![CDATA[
+        <b>ID: fd82a2d3-62ef-4805-819b-7859ef0123ca</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-85.424764,41.7918466,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b9b4fbee-c626-453d-9e4f-61f7af9a8b34</name>
+      <description><![CDATA[
+        <b>ID: b9b4fbee-c626-453d-9e4f-61f7af9a8b34</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-121.0888629,37.9364097,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f686c005-9077-4743-8e96-f8479934b38b</name>
+      <description><![CDATA[
+        <b>ID: f686c005-9077-4743-8e96-f8479934b38b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-73.76888000000001,45.48737999999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>a231fc75-8a4b-4490-9dbd-6e4b83450e94</name>
+      <description><![CDATA[
+        <b>ID: a231fc75-8a4b-4490-9dbd-6e4b83450e94</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-86.7376297,33.6239247,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>d2236e04-077c-4ce3-948f-d7bda93e80e1</name>
+      <description><![CDATA[
+        <b>ID: d2236e04-077c-4ce3-948f-d7bda93e80e1</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-80.1113757,42.07173359999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>1a0af592-0bca-4dc2-9b8a-fd7de33f34f6</name>
+      <description><![CDATA[
+        <b>ID: 1a0af592-0bca-4dc2-9b8a-fd7de33f34f6</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-118.1258004,33.9815703,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>289acf70-4d67-4218-8722-e8209497e200</name>
+      <description><![CDATA[
+        <b>ID: 289acf70-4d67-4218-8722-e8209497e200</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-74.12319579999999,4.6348952,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>099df655-dd8e-4448-837f-0b838b6bf3d8</name>
+      <description><![CDATA[
+        <b>ID: 099df655-dd8e-4448-837f-0b838b6bf3d8</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-76.84806069999999,38.8721859,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f157c543-b2bf-4bb3-b574-0e492830429e</name>
+      <description><![CDATA[
+        <b>ID: f157c543-b2bf-4bb3-b574-0e492830429e</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-72.2837847,42.56642189999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>764922f8-7942-4197-9571-2e1170b8c475</name>
+      <description><![CDATA[
+        <b>ID: 764922f8-7942-4197-9571-2e1170b8c475</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-78.6426661,35.7783848,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>e82a5689-76f9-46ca-9430-14abd1d52624</name>
+      <description><![CDATA[
+        <b>ID: e82a5689-76f9-46ca-9430-14abd1d52624</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-121.0278882,38.00883200000001,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>f2a7d477-c4bb-4978-9d12-4866995b7f05</name>
+      <description><![CDATA[
+        <b>ID: f2a7d477-c4bb-4978-9d12-4866995b7f05</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-97.01673559999999,32.811858,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>ecc7b2db-29ea-4d62-9672-387cf70e77ed</name>
+      <description><![CDATA[
+        <b>ID: ecc7b2db-29ea-4d62-9672-387cf70e77ed</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-77.6154519,35.5921485,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>61b24310-98e4-464a-ab16-c2e3503f2cde</name>
+      <description><![CDATA[
+        <b>ID: 61b24310-98e4-464a-ab16-c2e3503f2cde</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-121.1958032,37.7910248,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>eb2b51d8-7174-4331-a69c-79584abf10bc</name>
+      <description><![CDATA[
+        <b>ID: eb2b51d8-7174-4331-a69c-79584abf10bc</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.9452692,34.1388242,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>6b1da14b-59dd-46f4-8dfd-dc07f17ef9dd</name>
+      <description><![CDATA[
+        <b>ID: 6b1da14b-59dd-46f4-8dfd-dc07f17ef9dd</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-75.4190268,40.6507762,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>e80ee784-ed48-4f58-9440-0c973620559c</name>
+      <description><![CDATA[
+        <b>ID: e80ee784-ed48-4f58-9440-0c973620559c</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.4878154,34.0011637,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>e4dc1bcb-68ab-440f-85a0-4a7980a703dc</name>
+      <description><![CDATA[
+        <b>ID: e4dc1bcb-68ab-440f-85a0-4a7980a703dc</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-82.5131447,27.5325334,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>2f7a7634-4a13-403f-8177-507abedd9735</name>
+      <description><![CDATA[
+        <b>ID: 2f7a7634-4a13-403f-8177-507abedd9735</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-88.09290969999999,41.666539,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>c270836f-71f9-45e3-81d5-04c1ac6da67e</name>
+      <description><![CDATA[
+        <b>ID: c270836f-71f9-45e3-81d5-04c1ac6da67e</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-86.4088609,39.9719213,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>3224d705-a236-4fb8-b226-da5ae8c6f628</name>
+      <description><![CDATA[
+        <b>ID: 3224d705-a236-4fb8-b226-da5ae8c6f628</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-92.057453,34.2574287,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>16f8b051-e999-41f1-aa77-41dd8ebce75a</name>
+      <description><![CDATA[
+        <b>ID: 16f8b051-e999-41f1-aa77-41dd8ebce75a</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-78.14846709999999,39.2031449,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>a8089578-fdba-4e6b-a303-630a5c165e62</name>
+      <description><![CDATA[
+        <b>ID: a8089578-fdba-4e6b-a303-630a5c165e62</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-122.1778173,48.1283913,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>1d94e5db-5008-4bee-acae-008d99965852</name>
+      <description><![CDATA[
+        <b>ID: 1d94e5db-5008-4bee-acae-008d99965852</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-112.1700241,33.7986333,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>259e3a33-03d7-4211-abaf-7d3e747aabd4</name>
+      <description><![CDATA[
+        <b>ID: 259e3a33-03d7-4211-abaf-7d3e747aabd4</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.4946,47.6177366,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>2dad2bc6-e6df-47d3-a441-d315b54a4371</name>
+      <description><![CDATA[
+        <b>ID: 2dad2bc6-e6df-47d3-a441-d315b54a4371</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.6232192,38.8994834,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>04782838-7a73-423f-9df5-67df700bdb75</name>
+      <description><![CDATA[
+        <b>ID: 04782838-7a73-423f-9df5-67df700bdb75</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-76.4850548,39.3265425,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>6db54aac-a95f-4381-bd49-7b4b62908e04</name>
+      <description><![CDATA[
+        <b>ID: 6db54aac-a95f-4381-bd49-7b4b62908e04</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-97.0362342,32.8248335,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>ddb69891-653b-4957-b6eb-f0974154921f</name>
+      <description><![CDATA[
+        <b>ID: ddb69891-653b-4957-b6eb-f0974154921f</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-82.9163811,39.8410743,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>eff6e82f-082f-44b2-9587-49674d8d4aa4</name>
+      <description><![CDATA[
+        <b>ID: eff6e82f-082f-44b2-9587-49674d8d4aa4</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-75.2947859,40.2179526,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>10163c07-e85c-4dfb-b74c-19617dc12631</name>
+      <description><![CDATA[
+        <b>ID: 10163c07-e85c-4dfb-b74c-19617dc12631</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-78.96630739999999,38.39276359999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>0d3400e8-891b-4ae3-b290-04a56a7416c8</name>
+      <description><![CDATA[
+        <b>ID: 0d3400e8-891b-4ae3-b290-04a56a7416c8</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-86.67292189999999,36.8726589,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>3b030596-5492-476f-ba65-fa4e4f30f137</name>
+      <description><![CDATA[
+        <b>ID: 3b030596-5492-476f-ba65-fa4e4f30f137</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-81.3859104,32.1164368,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>cf5de9ca-599b-4a2f-9de3-94b07497cfa3</name>
+      <description><![CDATA[
+        <b>ID: cf5de9ca-599b-4a2f-9de3-94b07497cfa3</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.286929,34.4894897,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>8f35c42d-a2a0-461d-9c22-9e9374d936cd</name>
+      <description><![CDATA[
+        <b>ID: 8f35c42d-a2a0-461d-9c22-9e9374d936cd</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-122.9106469,45.5708636,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>dd144a32-89ef-42a6-b8f8-a98b4e658a9b</name>
+      <description><![CDATA[
+        <b>ID: dd144a32-89ef-42a6-b8f8-a98b4e658a9b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-80.4191494,27.2604239,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>8a3abd5b-d9c2-45c4-aee4-c3b7e8ff7046</name>
+      <description><![CDATA[
+        <b>ID: 8a3abd5b-d9c2-45c4-aee4-c3b7e8ff7046</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-86.8485254,33.5344956,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>61312d0d-70ee-4421-b4fb-7206a6f47a9a</name>
+      <description><![CDATA[
+        <b>ID: 61312d0d-70ee-4421-b4fb-7206a6f47a9a</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-73.28697079999999,40.8101999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>8c8a2b79-9f82-4b9d-81f1-7185169d80cc</name>
+      <description><![CDATA[
+        <b>ID: 8c8a2b79-9f82-4b9d-81f1-7185169d80cc</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-84.59781799999999,33.7701999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>15f18503-32b9-4c3c-aff0-5fde84e1cef7</name>
+      <description><![CDATA[
+        <b>ID: 15f18503-32b9-4c3c-aff0-5fde84e1cef7</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-79.42560069999999,36.0604781,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>653c5fd1-da2c-475b-8737-ce198cd3eeb7</name>
+      <description><![CDATA[
+        <b>ID: 653c5fd1-da2c-475b-8737-ce198cd3eeb7</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-81.364312,28.414503,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>28b7efdb-907a-4ebf-9fff-026131dd0358</name>
+      <description><![CDATA[
+        <b>ID: 28b7efdb-907a-4ebf-9fff-026131dd0358</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-75.3460142,40.6793161,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>d12f6f79-f3d2-4bfb-a134-d6ae21b9094c</name>
+      <description><![CDATA[
+        <b>ID: d12f6f79-f3d2-4bfb-a134-d6ae21b9094c</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-88.2882736,41.86255999999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>583e5b81-1683-4b5b-85b9-9b245e1e8e47</name>
+      <description><![CDATA[
+        <b>ID: 583e5b81-1683-4b5b-85b9-9b245e1e8e47</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-113.8496899,42.5351036,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>9f92a9c8-2bba-4502-958b-7e9633b8f381</name>
+      <description><![CDATA[
+        <b>ID: 9f92a9c8-2bba-4502-958b-7e9633b8f381</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-76.9924245,40.1992874,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>9026a3c5-f329-4b57-b1f5-f7ee352ed673</name>
+      <description><![CDATA[
+        <b>ID: 9026a3c5-f329-4b57-b1f5-f7ee352ed673</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-119.3667523,45.8060133,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>2117d1a3-5210-4202-b264-810d24775e13</name>
+      <description><![CDATA[
+        <b>ID: 2117d1a3-5210-4202-b264-810d24775e13</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-85.7319519,38.1954637,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>7a08d4c0-86ac-4f33-b744-988b5d8301c6</name>
+      <description><![CDATA[
+        <b>ID: 7a08d4c0-86ac-4f33-b744-988b5d8301c6</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-111.778378,40.3614109,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>3cc8425a-fae3-4228-b11d-9f539a480640</name>
+      <description><![CDATA[
+        <b>ID: 3cc8425a-fae3-4228-b11d-9f539a480640</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-79.7735671,43.6193877,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>9795d0e0-43b4-4e0d-8415-6e58efb4ea6d</name>
+      <description><![CDATA[
+        <b>ID: 9795d0e0-43b4-4e0d-8415-6e58efb4ea6d</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-80.1250624,26.31872,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>d97b0c49-a5c1-4116-b3bc-7c39fad6f6ac</name>
+      <description><![CDATA[
+        <b>ID: d97b0c49-a5c1-4116-b3bc-7c39fad6f6ac</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-82.733576,40.0891003,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>d93efde0-a6a3-4456-b2de-6cba7826d027</name>
+      <description><![CDATA[
+        <b>ID: d93efde0-a6a3-4456-b2de-6cba7826d027</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-81.4631004,30.6763453,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>4b9a73de-4733-4348-a93c-a27ed59f59ed</name>
+      <description><![CDATA[
+        <b>ID: 4b9a73de-4733-4348-a93c-a27ed59f59ed</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-75.05706599999999,39.971456,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>6e719f9a-5ebd-46cf-8e15-762f4f488326</name>
+      <description><![CDATA[
+        <b>ID: 6e719f9a-5ebd-46cf-8e15-762f4f488326</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-91.9890703,30.1644917,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>d4b19738-2d97-47a3-873c-b1e9546a6380</name>
+      <description><![CDATA[
+        <b>ID: d4b19738-2d97-47a3-873c-b1e9546a6380</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-118.6435186,34.4505665,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>1cbad959-2828-4118-af8c-6015d3f06dc7</name>
+      <description><![CDATA[
+        <b>ID: 1cbad959-2828-4118-af8c-6015d3f06dc7</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-94.5182566,39.1438896,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>24fa682b-e95a-4c75-99fa-630eaede8e7a</name>
+      <description><![CDATA[
+        <b>ID: 24fa682b-e95a-4c75-99fa-630eaede8e7a</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-88.55654779999999,33.4325285,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>67a605ea-11ea-4eba-bdfc-adc27a3319fe</name>
+      <description><![CDATA[
+        <b>ID: 67a605ea-11ea-4eba-bdfc-adc27a3319fe</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-97.71990609999999,30.2003831,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>29e2b9f8-de0a-4410-bab4-593f364764e9</name>
+      <description><![CDATA[
+        <b>ID: 29e2b9f8-de0a-4410-bab4-593f364764e9</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.9741669,34.0285036,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>c19b6e4b-d744-42d9-bd6f-e78cf2aea8fb</name>
+      <description><![CDATA[
+        <b>ID: c19b6e4b-d744-42d9-bd6f-e78cf2aea8fb</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-92.0968223,46.7535359,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>74f5fee6-1539-4b8b-b871-8dc509616d99</name>
+      <description><![CDATA[
+        <b>ID: 74f5fee6-1539-4b8b-b871-8dc509616d99</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-90.80695109999999,43.9421906,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>5087cbd0-8906-4769-aae9-51aa0fddbbdb</name>
+      <description><![CDATA[
+        <b>ID: 5087cbd0-8906-4769-aae9-51aa0fddbbdb</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-97.28372549999999,32.6579208,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>84ec4d04-40ab-49ca-b2d5-cdff960153e6</name>
+      <description><![CDATA[
+        <b>ID: 84ec4d04-40ab-49ca-b2d5-cdff960153e6</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-75.53258579999999,39.72098090000001,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>93d878a8-0e6a-4b0e-a5db-086a23447109</name>
+      <description><![CDATA[
+        <b>ID: 93d878a8-0e6a-4b0e-a5db-086a23447109</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-88.4817772,44.2037656,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>e74129c4-166a-4935-9f9a-f48e327a23a1</name>
+      <description><![CDATA[
+        <b>ID: e74129c4-166a-4935-9f9a-f48e327a23a1</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-120.6703232,36.8494224,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>601e2baa-621c-4ed0-b556-2da7e135cc60</name>
+      <description><![CDATA[
+        <b>ID: 601e2baa-621c-4ed0-b556-2da7e135cc60</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-74.8174806,39.617264,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>9f013337-271e-4fe3-b453-d75ba0c86fd1</name>
+      <description><![CDATA[
+        <b>ID: 9f013337-271e-4fe3-b453-d75ba0c86fd1</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.5349516,34.0768353,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>1b50847b-eabf-4e4d-9e20-359307f1e1d8</name>
+      <description><![CDATA[
+        <b>ID: 1b50847b-eabf-4e4d-9e20-359307f1e1d8</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-113.8848925,51.0049808,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>7e65d3ff-5609-4816-beb1-12c69b5a255e</name>
+      <description><![CDATA[
+        <b>ID: 7e65d3ff-5609-4816-beb1-12c69b5a255e</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-117.5343267,34.10100750000001,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>2d758f19-f4d0-4110-9c1b-2a97658cab13</name>
+      <description><![CDATA[
+        <b>ID: 2d758f19-f4d0-4110-9c1b-2a97658cab13</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-73.7061384,42.7374949,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>34d7ba58-1a64-4073-84b2-113a8f08a05f</name>
+      <description><![CDATA[
+        <b>ID: 34d7ba58-1a64-4073-84b2-113a8f08a05f</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-95.3829398,29.9963122,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>c629aa88-b7cd-441e-9f10-f094113d5be1</name>
+      <description><![CDATA[
+        <b>ID: c629aa88-b7cd-441e-9f10-f094113d5be1</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-85.80916599999999,41.716375,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>5320d69b-1397-40f1-b920-702108ab7a5a</name>
+      <description><![CDATA[
+        <b>ID: 5320d69b-1397-40f1-b920-702108ab7a5a</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-79.4384779,36.0664601,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>316b7ca3-db79-4c32-8d04-10288c5b848b</name>
+      <description><![CDATA[
+        <b>ID: 316b7ca3-db79-4c32-8d04-10288c5b848b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-92.04418199999999,30.251475,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>04d331b4-724b-4e18-a30c-a0a6dedc2ad5</name>
+      <description><![CDATA[
+        <b>ID: 04d331b4-724b-4e18-a30c-a0a6dedc2ad5</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-99.3990699,40.4398725,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>69ae2c21-2a6d-43bf-b2e3-8a1a910698fb</name>
+      <description><![CDATA[
+        <b>ID: 69ae2c21-2a6d-43bf-b2e3-8a1a910698fb</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-75.4730574,40.13409499999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>20374260-4248-4442-abd8-e5ff4294db69</name>
+      <description><![CDATA[
+        <b>ID: 20374260-4248-4442-abd8-e5ff4294db69</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-85.89227559999999,38.1698919,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>c8d87447-62cd-4459-9016-c1088349b0d7</name>
+      <description><![CDATA[
+        <b>ID: c8d87447-62cd-4459-9016-c1088349b0d7</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-97.1357694,34.1382057,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>a12d8dba-e38e-4f5d-b7d1-9c54a9be05fa</name>
+      <description><![CDATA[
+        <b>ID: a12d8dba-e38e-4f5d-b7d1-9c54a9be05fa</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-121.9534744,38.3913525,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>3178aa74-1380-4d5d-8051-fb4c50aec19d</name>
+      <description><![CDATA[
+        <b>ID: 3178aa74-1380-4d5d-8051-fb4c50aec19d</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-118.1597662,34.0787711,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>6f5217c1-d79d-42a4-8d3b-608faac266d7</name>
+      <description><![CDATA[
+        <b>ID: 6f5217c1-d79d-42a4-8d3b-608faac266d7</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-82.72476689999999,28.2067259,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>d9d92a76-9429-412a-a378-72f3caa99c55</name>
+      <description><![CDATA[
+        <b>ID: d9d92a76-9429-412a-a378-72f3caa99c55</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-96.0287931,41.2182108,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>6ef985b9-0511-4dab-be53-d20b58800fc7</name>
+      <description><![CDATA[
+        <b>ID: 6ef985b9-0511-4dab-be53-d20b58800fc7</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-77.3542078,37.5041158,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>9e3bfac2-83f1-494b-9917-7e7619645380</name>
+      <description><![CDATA[
+        <b>ID: 9e3bfac2-83f1-494b-9917-7e7619645380</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-95.84230720000001,36.0806074,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>ff3457a8-25d8-41c3-a607-46aa00adf234</name>
+      <description><![CDATA[
+        <b>ID: ff3457a8-25d8-41c3-a607-46aa00adf234</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-95.89977549999999,41.239706,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>6ee1b8f2-8699-4407-b4c7-3fb79f664183</name>
+      <description><![CDATA[
+        <b>ID: 6ee1b8f2-8699-4407-b4c7-3fb79f664183</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-90.449001,31.165387,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>1c738861-30bc-4df6-bda4-93b331ad43a3</name>
+      <description><![CDATA[
+        <b>ID: 1c738861-30bc-4df6-bda4-93b331ad43a3</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-78.68933059999999,42.9153617,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>3cb939d8-1b33-46fd-ba08-2411b5499f83</name>
+      <description><![CDATA[
+        <b>ID: 3cb939d8-1b33-46fd-ba08-2411b5499f83</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-97.6143803,35.4241629,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>1c87158c-6492-4122-8002-a17c2c22116b</name>
+      <description><![CDATA[
+        <b>ID: 1c87158c-6492-4122-8002-a17c2c22116b</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-104.822586,39.770859,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>eedc1076-e355-4e6a-99a7-c7fa0a4903d9</name>
+      <description><![CDATA[
+        <b>ID: eedc1076-e355-4e6a-99a7-c7fa0a4903d9</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-71.2346069,42.1118178,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>2c970d90-1a2d-458b-a69b-b72cf75a6300</name>
+      <description><![CDATA[
+        <b>ID: 2c970d90-1a2d-458b-a69b-b72cf75a6300</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-99.16337089999999,19.4130337,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>a9f8d02f-3aee-49a7-90ac-454a01e7a269</name>
+      <description><![CDATA[
+        <b>ID: a9f8d02f-3aee-49a7-90ac-454a01e7a269</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-80.89020699999999,35.715278,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b4ced658-cdc4-4b50-8287-0839673f5d10</name>
+      <description><![CDATA[
+        <b>ID: b4ced658-cdc4-4b50-8287-0839673f5d10</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-112.158153,33.435485,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>a787d14c-a721-4b2a-a552-7e9b07dc225f</name>
+      <description><![CDATA[
+        <b>ID: a787d14c-a721-4b2a-a552-7e9b07dc225f</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-77.04882300000001,39.8630434,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>e368995b-e461-4e32-98e7-6ea32f955fc0</name>
+      <description><![CDATA[
+        <b>ID: e368995b-e461-4e32-98e7-6ea32f955fc0</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-122.661194,38.2714411,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>b383bef3-5970-4d44-8a3b-479165ee6128</name>
+      <description><![CDATA[
+        <b>ID: b383bef3-5970-4d44-8a3b-479165ee6128</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-112.0010495,40.7318034,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>2ae36f1e-33bd-44bd-bdb4-e4d82c001934</name>
+      <description><![CDATA[
+        <b>ID: 2ae36f1e-33bd-44bd-bdb4-e4d82c001934</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-98.6212213,29.3178781,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>6ea294af-5a1f-43f0-96f2-4f0369800c97</name>
+      <description><![CDATA[
+        <b>ID: 6ea294af-5a1f-43f0-96f2-4f0369800c97</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-80.148348,26.2303886,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>220421a5-3d13-4703-85b0-946473404753</name>
+      <description><![CDATA[
+        <b>ID: 220421a5-3d13-4703-85b0-946473404753</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-71.02316069999999,42.177152,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>debd23a1-729e-4db0-aeb6-e36c93db4555</name>
+      <description><![CDATA[
+        <b>ID: debd23a1-729e-4db0-aeb6-e36c93db4555</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-87.9179868,42.9527818,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>150aab16-d274-4555-9f4e-cf5271f942e0</name>
+      <description><![CDATA[
+        <b>ID: 150aab16-d274-4555-9f4e-cf5271f942e0</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-99.4943715,27.5070651,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>4e6f0fbb-58ec-48a1-a9b9-b5cfde7df822</name>
+      <description><![CDATA[
+        <b>ID: 4e6f0fbb-58ec-48a1-a9b9-b5cfde7df822</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-79.7003969,43.7596634,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>526d83ea-4ef1-406e-bb18-eb6272232954</name>
+      <description><![CDATA[
+        <b>ID: 526d83ea-4ef1-406e-bb18-eb6272232954</b><br/>
+        ]]></description>
+      <styleUrl>#warehouseIcon</styleUrl>
+      <Point>
+        <coordinates>-88.2322851,41.73530909999999,0</coordinates>
+      </Point>
+    </Placemark>
+    
+
+</Document>
+</kml>
