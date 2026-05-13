@@ -6,7 +6,7 @@ The project investigates whether publicly available geospatial information and s
 
 ---
 
-# Project Motivation
+## Project Motivation
 
 Warehouse location intelligence can support:
 - logistics network analysis;
@@ -18,7 +18,7 @@ Because the sponsor data contain only known warehouse locations, the project foc
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```text
 Loadsmart-Warehouse-Pipeline/
@@ -54,7 +54,7 @@ Loadsmart-Warehouse-Pipeline/
 
 ---
 
-# Pipeline Overview
+## Pipeline Overview
 
 The repository implements the following workflow:
 
@@ -89,7 +89,7 @@ The repository implements the following workflow:
 
 ---
 
-# Dataset Summary
+## Dataset Summary
 
 The finalized benchmark dataset contains:
 - 4,205 unique warehouse locations;
@@ -102,7 +102,7 @@ Both random and spatial train-validation-test splits were generated to evaluate 
 
 ---
 
-# Models Evaluated
+## Models Evaluated
 
 The primary evaluated models include:
 - YOLOv8s image classification models;
@@ -133,7 +133,7 @@ Additional execution notes are provided directly within the notebooks.
 
 ---
 
-# Reproducibility Notes
+## Reproducibility Notes
 
 The repository is organized into modular notebook stages covering:
 - dataset construction;
@@ -150,7 +150,7 @@ Because OpenStreetMap queries depend on live public data, archived metadata CSV 
 
 ---
 
-# Important Notes
+## Important Notes
 
 This repository represents a research-oriented benchmark and operational prototype rather than a production-ready warehouse detection system.
 
@@ -158,7 +158,7 @@ Performance should be interpreted within the context of the constructed dataset 
 
 ---
 
-# Authors
+## Authors
 
 Developed as part of the _MIT SCM.256_ course project sponsored by Loadsmart.
 
