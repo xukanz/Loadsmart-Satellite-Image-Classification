@@ -1,0 +1,4 @@
+,accuracy,warehouse_recall,warehouse_precision,warehouse_f1,non_wh_f1,macro_f1,threshold
+sensitive,0.9372,0.9512,0.9627,0.9569,0.8842,0.9206,0.556
+balanced,0.9372,0.9512,0.9627,0.9569,0.8842,0.9206,0.556
+precise,0.9015,0.9738,0.9,0.9355,0.7919,0.8637,0.191

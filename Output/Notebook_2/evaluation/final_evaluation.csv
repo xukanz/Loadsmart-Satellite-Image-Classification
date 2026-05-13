@@ -1,0 +1,12 @@
+model,threshold_type,warehouse_recall,warehouse_precision,warehouse_f1,non_wh_f1,macro_f1,test_pr_auc,recall_ci,precision_ci,macro_f1_ci,fine_tuned
+YOLO Run1 density_v2,balanced (val-derived),0.943,0.9419,0.9424,0.8407,0.8916,0.9851,0.9428+-0.0079,0.9417+-0.0080,0.8909+-0.0103,False
+YOLO Run2 density_v2,balanced (val-derived),0.9406,0.9577,0.9491,0.864,0.9065,0.9888,0.9406+-0.0081,0.9576+-0.0069,0.9062+-0.0094,False
+YOLO Run2+LS density_v2,balanced (val-derived),0.9406,0.9577,0.9491,0.864,0.9065,0.9888,0.9406+-0.0081,0.9576+-0.0069,0.9062+-0.0094,False
+YOLO Run1 baseline_global,balanced (val-derived),0.9466,0.93,0.9382,0.8235,0.8809,0.9795,0.9466+-0.0077,0.9299+-0.0085,0.8804+-0.0106,False
+YOLO Run2 baseline_global,balanced (val-derived),0.9181,0.9404,0.9291,0.8127,0.8709,0.981,0.9180+-0.0094,0.9408+-0.0080,0.8709+-0.0107,False
+YOLO Run2+LS baseline_global,balanced (val-derived),0.9181,0.9404,0.9291,0.8127,0.8709,0.981,0.9180+-0.0094,0.9408+-0.0080,0.8709+-0.0107,False
+ResNet density_v2,balanced (val-derived),0.848,0.9469,0.8947,0.7593,0.827,0.9706,0.8484+-0.0121,0.9467+-0.0080,0.8267+-0.0120,False
+ResNet baseline_global,balanced (val-derived),0.9442,0.8727,0.907,0.6987,0.8029,0.9617,0.9445+-0.0079,0.8732+-0.0108,0.8031+-0.0141,False
+Fine-tuned (YOLO Run2 density_v2),sensitive,0.9406,0.9577,0.9491,0.864,0.9065,0.9888,0.9406+-0.0081,0.9576+-0.0069,0.9062+-0.0094,True
+Fine-tuned (YOLO Run2 density_v2),balanced,0.9406,0.9577,0.9491,0.864,0.9065,0.9888,0.9406+-0.0081,0.9576+-0.0069,0.9062+-0.0094,True
+Fine-tuned (YOLO Run2 density_v2),precise,0.9857,0.8954,0.9384,0.7924,0.8654,0.9888,0.9856+-0.0041,0.8953+-0.0100,0.8647+-0.0122,True
